@@ -15,7 +15,7 @@ A Chrome extension that visualizes binary trees, enabling users to interactively
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yogeshium/binary_tree_visualizer.git
+    git clone https://github.com/Tasmayun/binary_tree-visualiser.git
     ```
 2. **Open Chrome and navigate to `chrome://extensions/`.**
 3. **Enable "Developer mode"** by toggling the switch in the upper right corner.
@@ -49,6 +49,6 @@ No License
 
 ## Contact
 
-*Yogesh Kumar* - [yogeshk25198@gmail.com](mailto:yogeshk25198@gmail.com)
+*K Tasmayun sultana* - [kt22mcf1r22@student.nitw.ac.in](mailto:kt22mcf1r22@student.nitw.ac.in)
 
-Project Link: [https://github.com/yogeshium/binary_tree_visualizer](https://github.com/yogeshium/binary_tree_visualizer)
+Project Link: [[https://github.com/Tasmayun/binary_tree_visualizer](https://github.com/Tasmayun/binary_tree-visualiser.git)]
